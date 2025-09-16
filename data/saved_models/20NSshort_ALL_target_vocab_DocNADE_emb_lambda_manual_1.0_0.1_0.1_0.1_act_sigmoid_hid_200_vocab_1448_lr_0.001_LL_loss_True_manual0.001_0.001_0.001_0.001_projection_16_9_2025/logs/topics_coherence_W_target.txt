@@ -1,0 +1,28 @@
+top_n: 5 Topic Num: 1 
+Topic Words: [['author', 'back', 'audio', 'accelerator', 'biggest']]
+Coh_type:c_v  Topic Num:1 COH score:0.4019597875653663
+top_n: 10 Topic Num: 1 
+Topic Words: [['author', 'back', 'audio', 'accelerator', 'biggest', 'bitmaps', 'bnr', 'bitmap', 'bmw', 'accept']]
+Coh_type:c_v  Topic Num:1 COH score:0.6368309506653019
+top_n: 15 Topic Num: 1 
+Topic Words: [['author', 'back', 'audio', 'accelerator', 'biggest', 'bitmaps', 'bnr', 'bitmap', 'bmw', 'accept', 'big', 'alan', 'august', 'battery', 'access']]
+Coh_type:c_v  Topic Num:1 COH score:0.7458874546646004
+top_n: 20 Topic Num: 1 
+Topic Words: [['author', 'back', 'audio', 'accelerator', 'biggest', 'bitmaps', 'bnr', 'bitmap', 'bmw', 'accept', 'big', 'alan', 'august', 'battery', 'access', 'boards', 'bikes', 'black', 'andre', 'ball']]
+Coh_type:c_v  Topic Num:1 COH score:0.7935517068800071
+top scores for top_5:[0.4019597875653663, 5, [['author', 'back', 'audio', 'accelerator', 'biggest']]]
+-------------------------------------------------------------------
+top scores for top_10:[0.6368309506653019, 10, [['author', 'back', 'audio', 'accelerator', 'biggest', 'bitmaps', 'bnr', 'bitmap', 'bmw', 'accept']]]
+-------------------------------------------------------------------
+top scores for top_15:[0.7458874546646004, 15, [['author', 'back', 'audio', 'accelerator', 'biggest', 'bitmaps', 'bnr', 'bitmap', 'bmw', 'accept', 'big', 'alan', 'august', 'battery', 'access']]]
+-------------------------------------------------------------------
+top scores for top_20:[0.7935517068800071, 20, [['author', 'back', 'audio', 'accelerator', 'biggest', 'bitmaps', 'bnr', 'bitmap', 'bmw', 'accept', 'big', 'alan', 'august', 'battery', 'access', 'boards', 'bikes', 'black', 'andre', 'ball']]]
+-------------------------------------------------------------------
+Avg COH for top_5 topic words: 0.4019597875653663
+-------------------------------------------------------------------
+Avg COH for top_10 topic words: 0.6368309506653019
+-------------------------------------------------------------------
+Avg COH for top_15 topic words: 0.7458874546646004
+-------------------------------------------------------------------
+Avg COH for top_20 topic words: 0.7935517068800071
+-------------------------------------------------------------------

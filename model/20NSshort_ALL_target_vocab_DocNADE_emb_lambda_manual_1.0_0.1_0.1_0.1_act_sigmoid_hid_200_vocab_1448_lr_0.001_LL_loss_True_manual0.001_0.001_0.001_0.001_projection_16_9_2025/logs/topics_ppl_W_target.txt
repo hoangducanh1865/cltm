@@ -1,5 +1,0 @@
-h_num: 0
-w_h_top_words_indx: [ 75  79  72   0 121 105 113   1  23  73  92  32  83  86  31  88  96  87
-  91  30]
-w_h_top_words:['author', 'back', 'audio', 'accelerator', 'bnr', 'biggest', 'bitmaps', 'accept', 'alan', 'august', 'battery', 'andre', 'ball', 'bart', 'andi', 'based', 'beast', 'baseball', 'batf', 'amiga']
-----------------------------------------------------------------------

@@ -1,0 +1,4 @@
+SAL docs: (119/7400)(64/7400)(98/7400)(210/7400)
+Step: 73,	val PPL: 506.35147,	 best val PPL: 506.35147,	best val loss: 42.0248
+SAL docs: (903/7300)(286/7300)(155/7300)(1341/7300)
+Step: 146,	val PPL: 481.68573,	 best val PPL: 481.68573,	best val loss: 41.61227

@@ -1,0 +1,3 @@
+Val PPL: 943.3512,	Val loss: 61.576153
+
+Test PPL: 679.039,	Test loss: 45.967697

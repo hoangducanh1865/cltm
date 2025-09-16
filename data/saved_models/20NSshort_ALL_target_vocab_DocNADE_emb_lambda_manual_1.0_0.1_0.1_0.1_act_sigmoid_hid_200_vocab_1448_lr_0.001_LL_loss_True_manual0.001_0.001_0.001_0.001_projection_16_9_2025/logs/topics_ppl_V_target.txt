@@ -1,0 +1,5 @@
+h_num: 0
+w_h_top_words_indx: [ 75  79  72   0  23  73  92 123   3 107 115  32  83  86  31  96  88  87
+  30  91]
+w_h_top_words:['author', 'back', 'audio', 'accelerator', 'alan', 'august', 'battery', 'boards', 'access', 'bikes', 'black', 'andre', 'ball', 'bart', 'andi', 'beast', 'based', 'baseball', 'amiga', 'batf']
+----------------------------------------------------------------------

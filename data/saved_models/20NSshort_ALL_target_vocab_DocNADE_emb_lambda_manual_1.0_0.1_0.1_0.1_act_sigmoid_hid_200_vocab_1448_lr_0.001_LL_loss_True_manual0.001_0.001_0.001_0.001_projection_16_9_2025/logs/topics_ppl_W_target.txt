@@ -1,0 +1,5 @@
+h_num: 0
+w_h_top_words_indx: [ 75  79  72   0 105 113 121 112 120   1 104  23  73  92   3 123 107 115
+  32  83]
+w_h_top_words:['author', 'back', 'audio', 'accelerator', 'biggest', 'bitmaps', 'bnr', 'bitmap', 'bmw', 'accept', 'big', 'alan', 'august', 'battery', 'access', 'boards', 'bikes', 'black', 'andre', 'ball']
+----------------------------------------------------------------------
